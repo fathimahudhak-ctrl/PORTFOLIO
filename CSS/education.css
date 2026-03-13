@@ -1,0 +1,36 @@
+.third-container {
+  display: inline-block;
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  margin-bottom: 400px;
+}
+.edu {
+  font-family: "Saira Extra Condensed", sans-serif;
+  color: rgb(52, 58, 64);
+}
+
+.education {
+  font-size: 50px;
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.course,
+.degree {
+  margin-top: 0;
+  padding: 0;
+}
+
+.grade,
+.degree,
+.course {
+  margin-top: -20px;
+  color: #868e96;
+  font-weight: 400;
+  margin: 0;
+}
+
+.date1 {
+  margin-bottom: 50px;
+}

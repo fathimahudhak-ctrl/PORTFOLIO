@@ -1,0 +1,32 @@
+.illustrator, .canva
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+.tools
+{
+  font-family: "Saira Extra Condensed", sans-serif;
+  color: rgb(52, 58, 64);
+  font-size: 30px;
+   margin-bottom: 0;
+   margin-top: 0;
+    margin-left: 50px;
+     color: #868e96;
+}
+
+.skill {
+    font-family: "Saira Extra Condensed", sans-serif;
+    color: rgb(52, 58, 64);
+    font-size: 50px;
+    margin-left: 50px;
+    margin-bottom: 0;
+}
+
+.canva{
+    margin-left: 0;
+}
+.ski{
+   margin-bottom: 600px;
+}
